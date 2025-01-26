@@ -1,2 +1,2 @@
 # Safezones
-Safezones using ox_lib &amp; polyzones
+Fivem Safezones using ox_lib &amp; polyzones
